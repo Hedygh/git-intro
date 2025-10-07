@@ -1,4 +1,2 @@
-main
-Change from main
-Change from feature branch
-feature-improvement
+Message from main branch
+Message from feature branch
